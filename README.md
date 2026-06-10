@@ -1,5 +1,7 @@
 # LERNIX — AI Curriculum Planner
 
+> Developed by **BorraHemaPriya18**
+
 An AI-powered curriculum and study plan generator built with Flask + local LLM (Ollama/IBM Granite).
 
 ## Stack
